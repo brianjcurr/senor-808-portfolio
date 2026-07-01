@@ -20,7 +20,7 @@ The website automatically rebuilds and republishes itself whenever approved chan
 
 Current Production URL:
 
-https://brianjcurr.github.io/senor-808-portfolio/
+https://workfolio-studio.github.io/senor-808-portfolio/
 
 This URL is temporary and may later be replaced with a custom domain.
 
